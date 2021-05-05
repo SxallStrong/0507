@@ -4,6 +4,3 @@ third line
 forth line
 fifth line
 sixth line
-seventh line
-eighth line
-ninth line
