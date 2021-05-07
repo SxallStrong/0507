@@ -1,6 +1,2 @@
-first line
-second line
-third line
-forth line
-fifth line
-sixth line
+1+1=
+1*1=
